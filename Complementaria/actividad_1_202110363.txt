@@ -1,0 +1,28 @@
+#Comandos utilizados en clas
+ls #listar los elementos del directorio
+echo #imprimir
+clear #limpia el contenido de la consola
+cd #cambiar directorio
+cd . #directorio actual
+cd .. #directorio de nivel superior
+cp #copiar archivos
+cat #concatenar o mostrar contenido del archivo sin abrirlo
+mkdir #crea un nuevo directorio
+less #mostrar archivos
+more #mostrar archivos
+head #muestra las primeras 10 lineas del archivo
+tail #muestra las últimas lineas del archivo
+pwd #mostrar el directorio actual
+ls . #listar varios directorios
+ls .. #listar directorios
+ls -l #lista detallada de los archivos de una ruta
+ls -ltr #lista archivos por fecha
+ls / #lista directorios
+nano #editor de texto
+chmod #cambiar permisos del archivo o directorio
+chmod +x #permisos de ejecución
+:q! #salir
+exit #salir del programa
+for i in #bucle
+$ #llamar valores de las variables
+if #condicional

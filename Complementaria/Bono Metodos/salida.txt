@@ -1,0 +1,42 @@
+Archive:  Actividad_2_Descargar_11_de_febrero_de_2022_1200.zip
+ Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
+--------  ------  ------- ---- ---------- ----- --------  ----
+    1926  Defl:N      416  78% 2022-02-08 21:37 6cd1a6b4  13581-90505 - Johan Stiven Ariza Mendez - 8 de febrero de 2022 2137/Opera_num_complejos_Johan_Ariza.py
+     952  Defl:N      256  73% 2022-02-08 20:30 c7e70721  2212-90505 - Veronica Aya Serna - 8 de febrero de 2022 2030/Actividad2_vaya.py
+    5715  Defl:N     1511  74% 2022-02-08 22:37 d5664692  23565-90505 - Gerlein Santiago Beltran Diaz - 8 de febrero de 2022 2237/actividad complementaria.ipynb
+    5031  Defl:N     1395  72% 2022-02-08 22:26 e3386010  21859-90505 - Ana Sofia Castellanos Mosquera - 8 de febrero de 2022 2226/Taller2Modificado.py
+    2277  Defl:N      800  65% 2022-02-08 20:35 7d3d01e8  22891-90505 - David Eduardo Cepeda Riveros - 8 de febrero de 2022 2035/Actividad2.py
+    2789  Defl:N      780  72% 2022-02-08 21:02 80e4e38d  17028-90505 - Daniel Andres Fajardo Poveda - 8 de febrero de 2022 2102/Actividad_2_Daniel_Fajardo_Metodos_Computacionales.py
+    1756  Defl:N      607  65% 2022-02-08 20:53 ad5a6847  6713-90505 - Manuel Esteban Fuentes Serna - 8 de febrero de 2022 2053/Tarea 2.py
+    4540  Defl:N     1215  73% 2022-02-08 22:35 7e03c468  7289-90505 - Mauricio Alejandro Garcia Molina - 8 de febrero de 2022 2235/Actividad2.py
+    3193  Defl:N      800  75% 2022-02-08 20:51 5907e660  3753-90505 - Santiago Garcia Rincon - 8 de febrero de 2022 2051/Complejos_Santiago.py.py
+    2965  Defl:N      890  70% 2022-02-08 18:45 ad7d4085  28872-90505 - Thomas Gomez Serpa - 8 de febrero de 2022 1845/Untitled.ipynb
+    2327  Defl:N      792  66% 2022-02-08 18:17 be5c3db1  28872-90505 - Thomas Gomez Serpa - 8 de febrero de 2022 1817/Untitled.ipynb
+    5220  Defl:N     1088  79% 2022-02-08 21:50 0ab03165  20183-90505 - Alejandro Guerrero Pantoja - 8 de febrero de 2022 2150/Actividad_2_Alejandro_Guerrero.py
+    4151  Defl:N     1109  73% 2022-02-08 21:04 4b8096ab  2552-90505 - Sharol Michel Gutierrez Obeso - 8 de febrero de 2022 2104/Taller 2 - Complementaria de metodos.py
+    8317  Defl:N     1666  80% 2022-02-08 21:04 759b7d8e  2552-90505 - Sharol Michel Gutierrez Obeso - 8 de febrero de 2022 2104/Taller 2 - Complementaria de metodos.ipynb
+    3784  Defl:N      753  80% 2022-02-08 18:07 25c4e7cc  9731-90505 - Laura Hederich Pelaez - 8 de febrero de 2022 1807/clase2.py
+    2611  Defl:N      879  66% 2022-02-08 22:42 97ee9785  6550-90505 - Maria Isabella Hernandez Charry - 8 de febrero de 2022 2242/Actividad 2 - Complejos.py
+    2139  Defl:N      740  65% 2022-02-08 20:48 b9cbd056  13148-90505 - Julian David Klinger Bastidas - 8 de febrero de 2022 2048/Actividad2_MetodosC.py
+    3065  Defl:N      860  72% 2022-02-08 21:27 ba51384c  5696-90505 - Nicolas Lara Gomez - 8 de febrero de 2022 2128/Actividad 2.py
+    2356  Defl:N      760  68% 2022-02-08 18:31 4a247552  23529-90505 - David Lopez Osorio - 8 de febrero de 2022 1831/Act class.py
+    2273  Defl:N      759  67% 2022-02-08 21:45 4c756ffe  22036-90505 - Andres Felipe Melgarejo Sarmiento - 8 de febrero de 2022 2145/Taller_2_def.py
+    1051  Defl:N      374  64% 2022-02-08 18:20 df5f2ac4  22036-90505 - Andres Felipe Melgarejo Sarmiento - 8 de febrero de 2022 1820/Taller_2.py
+    2516  Defl:N      702  72% 2022-02-08 21:06 6969df17  17763-90505 - Camilo Andres Moreno Alfaro - 8 de febrero de 2022 2106/act2 m+®todos.py
+    2812  Defl:N      717  75% 2022-02-08 21:14 92141880  18568-90505 - Benjamin Mu+¦oz Hurtado - 8 de febrero de 2022 2114/Metodos complementaria tarea 2.py
+    3004  Defl:N     1024  66% 2022-02-08 23:51 ea013f85  16366-90505 - Daniel Alejandro Novoa Casallas - 8 de febrero de 2022 2351/Actividad_2_Daniel_Novoa.ipynb
+    6202  Defl:N     1313  79% 2022-02-08 21:54 e6758ef1  14115-90505 - Hugo Daniel Perlaza Blandon - 8 de febrero de 2022 2154/Hugopmetodoscomp.ipynb
+    3566  Defl:N      919  74% 2022-02-08 18:23 e8afafce  22220-90505 - Alejandro Pincay Mu+¦oz - 8 de febrero de 2022 1823/AlejandroPincay.py.py
+    3844  Defl:N     1087  72% 2022-02-08 22:50 ca1349f9  14184-90505 - Gerson Sair Ponce Solano - 8 de febrero de 2022 2250/GersonPonce_Actividad2_Complejos.py
+    2342  Defl:N      896  62% 2022-02-08 21:05 26884fa2  12823-90505 - Juan Camilo Reales Crespo - 8 de febrero de 2022 2105/actividad2juan_reales.py
+    3130  Defl:N     1041  67% 2022-02-08 18:39 50ae3b22  22268-90505 - Ana Sofia Reyes Quintana - 8 de febrero de 2022 1839/Actividad2.py
+    4615  Defl:N     1253  73% 2022-02-08 23:28 0a95540c  25531-90505 - Lina Paola Rodriguez Rodriguez - 8 de febrero de 2022 2328/Complejos.py
+    3960  Defl:N     1019  74% 2022-02-08 18:22 322f6449  12318-90505 - Julian Andres Rojas Tapias - 8 de febrero de 2022 1822/Actividad2.py
+    2498  Defl:N      826  67% 2022-02-08 23:58 495fceae  10135-90505 - Kevin Felipe Romero Caicedo - 8 de febrero de 2022 2358/Numeros complejos.py
+    7334  Defl:N     1354  82% 2022-02-08 22:04 aba4796e  9499-90505 - Laura Gerley Rubiano Cetina - 8 de febrero de 2022 2204/Actividad_2_MC_1_2022_1.py
+    7334  Defl:N     1354  82% 2022-02-08 22:04 aba4796e  9499-90505 - Laura Gerley Rubiano Cetina - 8 de febrero de 2022 2204/Actividad_2_MC_1_2022_1.ipynb
+    3281  Defl:N      865  74% 2022-02-08 19:40 13185861  26832-90505 - Ramon Alejandro Tamara Becerra - 8 de febrero de 2022 1940/actividad_complex_ramon_tamara.py
+    2369  Defl:N      615  74% 2022-02-08 21:17 45962bc2  27961-90505 - Valeria Torres Gomez - 8 de febrero de 2022 2117/actividad_2_202110363.py
+   10903  Defl:N     1648  85% 2022-02-13 12:44 df350f26  index.html
+--------          -------  ---                            -------
+  138148            35083  75%                            37 files
